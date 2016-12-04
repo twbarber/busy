@@ -1,4 +1,4 @@
-package twbarber.com.busylog;
+package twbarber.com.busy;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

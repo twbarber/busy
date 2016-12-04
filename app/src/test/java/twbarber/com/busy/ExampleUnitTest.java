@@ -1,4 +1,4 @@
-package twbarber.com.busylog;
+package twbarber.com.busy;
 
 import org.junit.Test;
 

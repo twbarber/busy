@@ -1,4 +1,4 @@
-package twbarber.com.busylog;
+package twbarber.com.busy;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

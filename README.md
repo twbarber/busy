@@ -1,4 +1,4 @@
-# busy-log
+# busy
 Log what you're actually doing.
 
 ## About
